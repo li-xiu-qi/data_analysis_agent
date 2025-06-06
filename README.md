@@ -124,7 +124,8 @@ sequenceDiagram
 
 ```bash
 # 克隆项目
-# git clone 
+git clone  https://github.com/li-xiu-qi/data_analysis_agent.git
+
 cd data_analysis_agent
 
 # 安装依赖
