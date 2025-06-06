@@ -140,6 +140,11 @@ outputs/
 *.csv
 !贵州茅台利润表.csv
 
+# 允许assets目录下的图片文件（项目资源）
+!assets/**/*.png
+!assets/**/*.jpg
+!assets/**/*.jpeg
+
 # IDE and editor files
 .vscode/
 .idea/
